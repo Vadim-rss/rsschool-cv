@@ -1,2 +1,2 @@
 # rsschool-cv
-init: start task
+https://Vadim-rss.github.io/rsschool-cv/cv
